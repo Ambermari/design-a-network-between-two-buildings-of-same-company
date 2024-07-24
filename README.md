@@ -1,2 +1,2 @@
-# design-a-network-between-two-buildings-of-a-sane-company
+# design-a-network-between-two-buildings-of-a-same-company
  
